@@ -1,0 +1,8 @@
+{
+  "name": "learn-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "54bd5252"
+}
